@@ -1,3 +1,8 @@
+/*
+ * Author: @aleoterob
+ * Date: 2024-12-28
+ */
+
 "use client";
 
 import React from "react";
