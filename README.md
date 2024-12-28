@@ -1,1 +1,1 @@
-## Next.js and TailWind Project
+## Next.js + Chart.js + TailWind
