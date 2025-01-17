@@ -12,11 +12,11 @@ export const metadata: Metadata = {
 
 export default function Home() {
   return (
-    <main className="flex flex-col items-center pb-8">
-      <h1 className="pt-12 text-4xl sm:text-4xl md:text-5xl lg:text-6xl  xl:text-7xl text-center">
+    <main className="flex flex-col items-center pb-8 ">
+      <h1 className="pt-12 text-4xl sm:text-4xl md:text-5xl lg:text-6xl  xl:text-7xl text-center text-white">
         Next.js + Chart.js + Tailwind.
       </h1>
-      <h1 className="pt-4  pb-6 text-2xl sm:text-4xl md:text-4xl lg:text-4xl text-center">
+      <h1 className="pt-4  pb-6 text-2xl sm:text-4xl md:text-4xl lg:text-4xl text-center  text-white">
         Financial Charts Component that shows dummy data.
       </h1>
       <div className="flex flex-row gap-10 flex-wrap justify-center">
